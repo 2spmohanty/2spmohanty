@@ -23,7 +23,7 @@ I am based at **Sydney, Australia**.
 
 ---
 
-## Selected Projects
+## My Favorite Projects
 
 ### machine-learning
 
