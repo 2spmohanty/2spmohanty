@@ -8,6 +8,8 @@ My work sits at the intersection of distributed backend systems, infrastructure 
 
 I am currently deepening my expertise through a **Machine Learning Specialization**, integrating intelligent modeling with production-grade data systems.
 
+I am based at **Sydney, Australia**.
+
 ---
 
 ## Engineering Focus
@@ -110,12 +112,5 @@ Bridging distributed systems and machine learning — designing platforms where 
 
 ---
 
-Sydney, Australia
 
----
 
-If you'd like, I can now refine this into:
-
-* A **more minimal, high-signal FAANG-style version**
-* A **Principal Engineer positioning version**
-* Or a slightly more human, less formal tone version**
