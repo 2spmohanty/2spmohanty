@@ -30,13 +30,21 @@ I am based at **Sydney, Australia**.
 Applied ML implementations covering regression, classification, feature engineering, encoding strategies, and evaluation methodologies.
 Focused on understanding bias-variance tradeoffs and production-aligned modeling workflows.
 
-## Large-Scale Enterprise data migration reconciliation
+**Core themes:** statistical foundations, model evaluation, data-to-model pipelines.
+
+---
+
+### Large-Scale Enterprise data migration reconciliation
 
 Designed and implemented a core reconciliation engine ensuring data integrity and correctness during high-volume financial data processing and cloud migration initiatives.
 
-## Synthetic Data Engineering Framework
+---
+
+### Synthetic Data Engineering Framework
 
 Built a synthetic data generation system to simulate financial transaction patterns, edge cases, and stress scenarios.
+
+---
 
 ### Dynamic-Query-Generator
 
@@ -60,12 +68,6 @@ Automation framework for software-defined networking workflows, enabling program
 Compute virtualization automation toolkit supporting lifecycle management and environment standardization.
 
 **Core themes:** systems orchestration, infrastructure APIs, scalable automation patterns.
-
----
-
-
-
-**Core themes:** statistical foundations, model evaluation, data-to-model pipelines.
 
 ---
 
