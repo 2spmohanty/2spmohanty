@@ -1,7 +1,7 @@
 # Hello 👋
 
 
-**Staff-Level Engineer | Distributed Systems | Cloud & Infrastructure | Applied Machine Learning**
+**Distributed Systems | Cloud & Infrastructure | Applied Machine Learning**
 
 I design and build large-scale systems across compute, networking, storage, and data platforms.
 My work sits at the intersection of distributed backend systems, infrastructure automation, and correctness at scale.
